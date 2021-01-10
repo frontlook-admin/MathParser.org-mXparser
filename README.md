@@ -34,6 +34,7 @@
 [![paypall-donation](http://mathparser.org/wp-content/uploads/2017/07/paypall-donation.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QJYYH86583LEN)
 
 # mXparser - a super easy, rich and highly flexible Mathematical Expression Parser (Math Parser, Expression Evaluator) library for JAVA, Android and C# .NET.
+    ### 15.10.2020: first 500000 downloads!
     ### 20.12.2019: first 250000 downloads!
     ### 01.01.2019: first 100000 downloads!
     ### 01.08.2018: first 60000 downloads!
@@ -182,7 +183,7 @@
     e.calculate();
 :+1:
 
-## mXparser is cool! But this is only the begging, we are just warming up!
+## mXparser is cool! But this is only the beginning, we are just warming up!
 
 #### You want to play with iterated operators...
 ![sum](http://mathparser.org/wp-content/uploads/2017/05/sum.png)
